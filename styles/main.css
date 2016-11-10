@@ -65,10 +65,11 @@ input{
     color: white;
     border: 0;
     margin-bottom: 144px;
+    cursor: pointer;
 
 }
 .bottom-container{
-    padding: 178px 5% 32px 5%;
+    padding: 150px 5% 32px 5%;
 }
 .bottom-container p{
     margin: 0 auto 129px auto;
