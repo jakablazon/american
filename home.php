@@ -25,6 +25,13 @@
             <input type="email" placeholder="your e-mail adress" class="email-field">
             <input type="submit" value="SIGN UP NOW" class="submit-button">
         </form>
+        <form method="POST" action="http://www.marryanonamerican.com/thanks.php" accept-charset="utf-8" enctype="application/x-www-form-urlencoded">
+					<div>
+						<span>Email *</span><input type="text" name="email" size="19"><br><br>
+					</div>
+					<input type="submit" value="Pošljite mi" name="submit">
+
+				</form>
     </div>
 </body>
 </html>
