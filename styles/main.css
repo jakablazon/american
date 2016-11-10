@@ -7,6 +7,20 @@ html, body{
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
 }
+
+h1{
+text-align: center;
+padding-top: 100px;
+margin: 0px;
+padding-bottom: 10px;
+
+}
+
+p.step-away{
+  margin: 0px;
+  padding-bottom: 100px;
+}
+
 p{
     font-size: 25px;
     font-weight: 500;
