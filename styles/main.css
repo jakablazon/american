@@ -4,7 +4,7 @@
 html, body{
     margin: 0;
     padding: 0;
-    font-family: monsterrat;
+    font-family: "monsterrat";
     color: #ffffff;
 }
 p{
@@ -69,7 +69,7 @@ input{
 
 }
 .bottom-container{
-    padding: 150px 5% 32px 5%;
+    padding: 100px 5% 32px 5%;
 }
 .bottom-container p{
     margin: 0 auto 129px auto;
