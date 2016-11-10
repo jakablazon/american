@@ -76,11 +76,6 @@ input{
     max-width: 740px;
 }
 
-.bottom-container .text-about{
-    opacity: 0.3;
-    font-size: 15px;
-    margin: 0 auto;
-}
 
 @media (max-width: 600px) {
     p, input{
